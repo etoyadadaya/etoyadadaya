@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ivan Denisenko</h1>
 <h3 align="center">A passionate software engineer from Russia</h3>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/gist/theAdityaNVS/f5b585d1082da2dffffea32434f37956/raw/7f9552d0a179b4f84059259fa878199e369b069c/GitHub-logo.gif">
+<img align="right" alt="Coding" width="400" src="https://www.icegif.com/wp-content/uploads/2021/12/icegif-1513.gif">
 
 - 🌱 I’m currently learning **Data structures and algorithms**
 
