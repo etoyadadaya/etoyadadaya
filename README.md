@@ -36,4 +36,5 @@
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/> </a>
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=etoyadadaya&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="etoyadadaya" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=etoyadadaya&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="etoyadadaya" />
+<img align="center" alt="Coding" width="100" src="https://i.pinimg.com/originals/02/82/93/028293ffb5b7b0acbc82e603d303d206.gif"></p>
