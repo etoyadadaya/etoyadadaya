@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ivan Denisenko</h1>
 <h3 align="center">A passionate software engineer from Russia</h3>
 <p><br></br></p>
-<img align="right" alt="Coding" width="350" src="https://64.media.tumblr.com/254ff2f9db4c1233a58927df0ece60a3/tumblr_mt43ioMNox1rll28uo1_400.gif">
+<img align="right" alt="Coding" width="300" src="https://64.media.tumblr.com/254ff2f9db4c1233a58927df0ece60a3/tumblr_mt43ioMNox1rll28uo1_400.gif">
 
 👨‍💻 - I’m currently learning **Data structures and algorithms**
 
