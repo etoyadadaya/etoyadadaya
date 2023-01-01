@@ -3,7 +3,7 @@
 <p><br></br></p>
 <img align="right" alt="Coding" width="300" src="https://64.media.tumblr.com/254ff2f9db4c1233a58927df0ece60a3/tumblr_mt43ioMNox1rll28uo1_400.gif">
 
-👨‍💻 - I’m currently learning **Data structures and algorithms**
+👨‍💻 - I’m currently learning **React, Nest.js, TypeScript**
 
 🌱 - All of my projects are available at [https://github.com/etoyadadaya](https://github.com/etoyadadaya)
 
