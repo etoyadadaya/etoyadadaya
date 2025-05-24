@@ -1,236 +1,27 @@
-<h1 align="center">Hi,I'm Ivan Denisenko</h1>
-<h2 align="center" id="etoyadadaya">🔥My Tech stack</h2>
-<p><br>
+<div>
+  <h3 align="center">Connect with me:</h3>
+  <p align="center">
+  <a href="https://t.me/etoyadadaya" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111644.png" alt="Ivan Denisenko" height="30" width="30" /></a>
+  </p>
+</div>
 
-> General
+<div>
+  <h3 align="center">Languages and Tools:</h3>
+  <p align="center" width="100%">
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="30" height="30"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/> </a>
+  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="30" height="30"/> </a>
+  <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="30" height="30"/> </a> 
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="30" height="30"/> </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/> </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/> </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/> </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/> </a>
+  </p>
+</div>
 
-<table width='100%'>
-  <tr>
-    <td align="center" width="110" height="90">
-      <a href="#etoyadadaya">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" width="36" height="36" alt="javascript" />
-      </a>
-      <br>JavaScript
-    </td>
-    <td align="center" width="110" height="90">
-      <a href="#etoyadadaya">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg" width="36" height="36" alt="typescript" />
-      </a>
-      <br>TypeScript
-    </td>
-        <td align="center" width="110" height="90">
-      <a href="#etoyadadaya">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="36" height="36" alt="Html5" />
-      </a>
-      <br>HTML
-    </td>
-         <td align="center" width="110" height="90"> 
-      <a href="#etoyadadaya" >
-        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="36" height="36" alt="css3" />
-      </a>
-      <br>CSS
-    </td>
-    <td align="center" width="110" height="90">
-      <a href="#etoyadadaya">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" width="36" height="36" alt="git" />
-      </a>
-      <br>Git
-    </td>
-    <td align="center" width="110" height="90"> 
-      <a href="#etoyadadaya" >
-        <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="36" height="36" alt="docker" />
-      </a>
-      <br>Docker
-    </td>
-  </tr> 
-</table>
-<p><br>
-
-> Frontend
-
-<table width='100%'>
-  <tr>
-   <td align="center" width="110" height="90">
-      <a href="#etoyadadaya">
-        <img src="https://brandlogos.net/wp-content/uploads/2020/09/react-logo.png" width="36" height="36" alt="React" />
-      </a>
-      <br>React JS
-    </td>
-     <td align="center" width="110" height="90">
-      <a href="#etoyadadaya" >
-        <img src="https://raw.githubusercontent.com/samfromaway/samfromaway/master/.github/images/nextjs.png" width="36" height="36" alt="Next JS" />
-      </a>
-      <br>Next JS
-    </td>
-   <td align="center" width="110" height="90">
-      <a href="#etoyadadaya" >
-        <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="36" height="36" alt="Redux" />
-      </a>
-      <br>Redux
-    </td>
-     <td align="center" width="110" height="90">
-      <a href="#etoyadadaya">
-        <img src="https://brandeps.com/icon-download/S/Sass-icon-vector-04.svg" width="36" height="36" alt="Sass" />
-      </a>
-      <br>Sass
-    </td>
-   <td align="center" width="110" height="90">
-      <a href="#etoyadadaya">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" width="36" height="36" alt="Tailwind" />
-      </a>
-      <br>Tailwind
-    </td>
-    <td align="center" width="110" height="90"> 
-      <a href="#etoyadadaya" >
-        <img src="https://brandeps.com/icon-download/W/Webpack-icon-vector-02.svg" width="36" height="36" alt="Webpack" />
-      </a>
-      <br>Webpack
-    </td>
-    <td align="center" width="110" height="90"> 
-      <a href="#etoyadadaya" >
-        <img src="https://vitejs.dev/logo.svg" width="36" height="36" alt="Vite" />
-      </a>
-      <br>Vite
-    </td> 
-</table>
-<p><br>
-
-> Backend
-
-<table width='100%'>
-  <tr>
-    <td align="center" width="110" height="90"> 
-      <a href="#etoyadadaya" >
-        <img src="https://brandeps.com/icon-download/N/Nestjs-icon-vector-01.svg" width="36" height="36" alt="Nestjs" />
-      </a>
-      <br>Nest JS
-    </td>
-    <td align="center" width="110" height="90"> 
-      <a href="#etoyadadaya" >
-        <img src="https://brandeps.com/icon-download/N/Nodejs-icon-vector-02.svg" width="36" height="36" alt="Node JS" />
-      </a>
-      <br>Node JS
-    </td>
-    <td align="center" width="110" height="90">
-      <a href="#etoyadadaya" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" width="36" height="36" alt="GraphQL" />
-      </a>
-      <br>GraphQL
-    </td>
-    <td align="center" width="110" height="90">
-      <a href="#etoyadadaya" >
-        <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="36" height="36" alt="Mongo DB" />
-      </a>
-      <br>MongoDB
-    </td>
-     <td align="center" width="110" height="90"> 
-      <a href="#etoyadadaya" >
-        <img src="https://brandeps.com/logo-download/F/Firebase-logo-vector-02.svg" width="36" height="36" alt="Firebase" />
-      </a>
-      <br>Firebase
-    </td>
-      <td align="center" width="110" height="90"> 
-      <a href="#etoyadadaya" >
-        <img src="https://brandeps.com/icon-download/P/Prisma-icon-vector-01.svg" width="36" height="36" alt="Prisma" />
-      </a>
-      <br>Prisma
-    </td>
-      <td align="center" width="110" height="90"> 
-      <a href="#etoyadadaya" >
-        <img src="https://trpc.io/img/logo.svg" width="36" height="36" alt="tRPC" />
-      </a>
-      <br>tRPC
-    </td>
-  </tr> 
-</table>
-<p><br>
-
-> Testing
-
-<table width='100%'>
-  <tr>
-     <td align="center" width="110" height="90"> 
-      <a href="#etoyadadaya" >
-        <img src="https://brandeps.com/icon-download/J/Jest-icon-vector-02.svg" width="36" height="36" alt="Jest" />
-      </a>
-      <br>Jest
-    </td>
-    <td align="center" width="110" height="90"> 
-      <a href="#etoyadadaya">
-        <img src="https://assets.devographics.com/projects/testing_library.png" width="36" height="36" alt="react testing library" />
-      </a>
-      <br>RT Library
-    </td>
-        <td align="center" width="110" height="90"> 
-      <a href="#etoyadadaya" >
-        <img src="https://brandeps.com/icon-download/S/Storybook-icon-vector-02.svg" width="36" height="36" alt="storybook" />
-      </a>
-      <br>Storybook
-    </td>
-    <td align="center" width="110" height="90"> 
-      <a href="#etoyadadaya">
-        <img src="https://brandeps.com/icon-download/C/Cypress-icon-vector-01.svg" width="36" height="36" alt="cypress" />
-      </a>
-      <br>Cypress
-    </td>
-    <td align="center" width="110" height="90"> 
-      <a href="#etoyadadaya">
-        <img src="https://playwright.dev/img/playwright-logo.svg" width="36" height="36" alt="playwright" />
-      </a>
-      <br>Playwright
-    </td>
-    <td align="center" width="110" height="90"> 
-      <a href="#etoyadadaya">
-        <img src="https://bestofjs.org/logos/puppeteer.svg" width="36" height="36" alt="puppeteer" />
-      </a>
-      <br>Puppeteer
-    </td>
-  </tr> 
-</table>
-<p><br>
-
-> Code quality
-
-<table width='100%'>
-  <tr>
-     <td align="center" width="110" height="90">
-      <a href="#etoyadadaya">
-        <img src="https://brandeps.com/icon-download/E/Eslint-icon-vector-02.svg" width="36" height="36" alt="eslint" />
-      </a>
-      <br>Eslint
-    </td>
-    <td align="center" width="110" height="90">
-      <a href="#etoyadadaya">
-        <img src="https://brandeps.com/icon-download/P/Prettier-icon-vector-02.svg" width="36" height="36" alt="prettier" />
-      </a>
-      <br>Prettier
-    </td>
-        <td align="center" width="110" height="90">
-      <a href="#etoyadadaya">
-        <img src="https://brandeps.com/logo-download/S/Stylelint-logo-vector-01.svg" width="36" height="36" alt="Prettier" />
-      </a>
-      <br>Stylelint
-    </td>
-  </tr> 
-</table>
-<p><br>
-
-> Mobile & Desktop
-
-<table width='100%'>
-  <tr>
-    <td align="center" width="110" height="90">
-      <a href="#etoyadadaya">
-        <img src="https://brandlogos.net/wp-content/uploads/2020/09/react-logo.png" width="36" height="36" alt="React Native" />
-      </a>
-      <br>React Native
-    </td>
-    <td align="center" width="110" height="90">
-      <a href="#etoyadadaya">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/1024px-Electron_Software_Framework_Logo.svg.png" width="36" height="36" alt="electron" />
-      </a>
-      <br>Electron
-    </td>
-  </tr> 
-</table>
-<p><br>
+<div>
+  <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=etoyadadaya&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="etoyadadaya" />
+</div>
